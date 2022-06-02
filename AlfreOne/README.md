@@ -12,7 +12,7 @@
 
 This prototype was realised for the Videogame Design and Programming course, in collaboration with the Università Statale of Milano and the Politecnico of Milano.
 
-Game download link from itch.io: https://polimi-game-collective.itch.io/allfredone
+Game download link from itch.io: https://polimi-game-collective.itch.io/allfredone   
 Link to video: https://youtu.be/mNleUlggBzA
 
 **Welcome to AllfredOne's World!**

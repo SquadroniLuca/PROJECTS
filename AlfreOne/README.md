@@ -1,4 +1,4 @@
-# ECO CITY
+# ALLFREDONE
 
 ## INDEX
 
@@ -10,45 +10,68 @@
 
 ### Introduction <a name="intro"></a>
 
-This demo was created as a final project for the Virtual Reality course at the Complutense University of Madrid, in collaboration with Laura Mazzuca.
+This prototype was realised for the Videogame Design and Programming course, in collaboration with the Università Statale of Milano and the Politecnico of Milano.
 
-**Eco City** aims to raise awareness about waste separation in a fun and engaging way.   
-The main target group is children aged 6 to 12, but of course the game can be played at any age.
+Game download link from itch.io: https://polimi-game-collective.itch.io/allfredone   
+Link to video: https://youtu.be/mNleUlggBzA
 
-The setting of the game is a small town with a small park and an ecological island.   
-The player starts the game in the main square, where he finds the mayor asking him to help him clean the city from the various garbage left by its citizens. 
+**Welcome to AllfredOne's World!**
 
-The main objective of the game is to correctly recycle the various types of waste in order to earn as many points as possible.   
-The player will be equipped with an inventory, so he will be able to collect the objects he finds around the city.
+AllfredOne was born with a strange power, he can generate clones of himself, so he can do nothing all his life, always delegating all the work to his clones.   
+Our story starts when AllfredOne move in a new house, and as usual his clones must do all the work...
 
+You and your friend play as clones of AllfredOne, and your job is to complete all the tasks AllfredOne gives you.   
+Cooperation and collaboration are the key to success, as each task will ask you and your friend to draw from a shared set of resources. Be too greedy and your teammate won't have enough to complete his job; be too generous and you won't have enough.
+
+**Team members:**
+
+ * Giorgio Castiglioni
+ * Luca Squadroni
+ * Diego Zucca
+ * Roberto Buratti
+ * Jose Alvaro Flores Gambarelli
+ 
 ---
 
 ### Game Description <a name="descr"></a>
 
-To earn points, the player can recycle objects in two different ways:
+The game is based on **controlling clones** of Allfred.   
+To pass the levels the clones will have to interact with each other by exchanging statistics and cooperating to interact with the environment and fulfil their creator's wishes.
 
- 1. **Throwing objects** in the containers in the city or on the ecological island, carrying them by hand.
+The game can be played sa single player or can be played in multiplayer (multiplayer experience is strongly recommended).
 
- 2. **Interact with NPCs**, to whom he will give the objects he keeps in his inventory.
+In addition to the tutorial, there are two more levels in this demo:
 
-When the player correctly recycles objects or completes missions assigned to him by non-player characters, he will receive a positive score, on the other hand, the player throws waste in the wrong container, points will be deducted.   
+ 1. **The House**
+
+ 2. **The Post Office**
+
+Each level presents a main task, but the path to it is unclear so players must study their surroundings to figure out what they need to do and how to do it.   
+The main tools of the players to complete a level are the statistics that AllfredOne can give to its clones, these statistics are *Strength*, *Agility*, and *Intelligence*, each of which are essential for completing tasks. 
+
+Players need to figure out how to break down the stats, as efficiently as possible. This is not an easy task, as at the beginning of the level they will have no idea what the obstacles are and what stats they will need to overcome them.
+
+Each statistic translates into an action that the clones can perform, the more points in that statistic, the better the clone will perform the action.   
+
+ * ***Strength*** is equivalent to its ability to move certain objects in the environment, such as crates and packages.
  
-Interaction with the non-player characters is important to stimulate the exploration of the map, as well as the discovery of the different possibilities of reusing materials.    
-Characters will leave gifts on the trophy shelf made from items received from the player.
+ * ***Agility*** is the ability to jump and move faster, more points in agility means higher jumps and faster movements.
  
+ * ***Intelligence*** is the ability to interact with mechanisms in the environment such as buttons and levers. The colors of the buttons and levers suggest how many intelligences points the clone needs to activate them.
+
+ AlfredOne won't offer his help (he's too lazy to do that) but he will give players some tips on what to do and, most importantly, act as a bank of clone statistics.
 
 ---
 
 ### How to play <a name="play"></a>
 
-This app is an augmented reality game, so you are required to have augmented reality glasses.   
-Unfortunately, it was not possible to create an executable file, but it is possible to play the demo by connecting the augmented reality glasses to the pc and start the project from Unity.
+It is possible to download the **.zip** file located in this folder (Windows only) or download the file from the link above and choose the version suitable for your operating system.
 
- 1. Connect the augmented reality glasses to the pc.
+ 1. Download the file zip file. You will need a keyboard and a mouse ***(single player)*** to play the game + a joustick for ***multiplayer***.
 
- 2. Start the project from Unity.
+ 2. Extract the .zip file to your PC wherever you want. It is important that all files are extracted and remain in the same folder once extracted.
 
- 3. Try to collect as many points as possible.
+ 3. Once the folder is extracted, launch **AllfredOne.exe**.
 
 Have fun :)
 
@@ -56,11 +79,9 @@ Have fun :)
 
 ### Important things to remember <a name="nb"></a>
 
- * This project was realised in collaboration with **Laura Mazzuca**.
+ * This project was realised in collaboration with **Giorgio Castiglioni**, **Diego Zucca**, **Roberto Buratti** and **Jose Alvaro Flores Gambarelli**.
 
- * Augmented reality glasses are needed.
-
- * This application is currently ***ONLY*** playable on pc from Unity.
+ * For more fun play **in pairs**.
 
  * This project is still a ***prototype***, so there may be bugs (which you can report to us to improve the game).
 

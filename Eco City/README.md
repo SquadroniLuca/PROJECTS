@@ -12,6 +12,8 @@
 
 This demo was created as a final project for the Virtual Reality course at the Complutense University of Madrid, in collaboration with Laura Mazzuca.
 
+Link to the video: https://youtu.be/SADp5e7EEms
+
 **Eco City** aims to raise awareness about waste separation in a fun and engaging way.   
 The main target group is children aged 6 to 12, but of course the game can be played at any age.
 
